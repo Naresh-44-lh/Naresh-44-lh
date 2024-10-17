@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Narsh</h1>
+<h1 align="center">Hi 👋, I'm Naresh</h1>
 <h3 align="center">Hi there! I'm Naresh, a backend development beginner and student eager to learn and grow in the world of coding. I love exploring new technologies and building projects that solve real problems. Check out my repositories to see my progress, and feel free to connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naresh-44-lh&label=Profile%20views&color=0e75b6&style=flat" alt="naresh-44-lh" /> </p>
